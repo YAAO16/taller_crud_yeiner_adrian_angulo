@@ -1,0 +1,44 @@
+						Puntos claves del informe
+
+Portada
+
+Índice
+
+Resumen Ejecutivo
+
+Introducción
+
+	Contexto y Motivación: Razón por la que se realizó el informe y la importancia del tema.
+	Alcance del Informe: Qué aspectos de Mongo se cubren en el informe (consultas, diseño de bases de datos).
+	Objetivos: Qué se pretende lograr con el informe.
+
+Metodología
+
+	Herramientas Utilizadas
+	Procedimientos:
+		1. Métodos y pasos seguidos para llevar a cabo el análisis o el trabajo 
+			1.1. Creación base de datos personal
+			1.1. Realización taller
+				1.1.1.Métodos de captura
+
+Desarrollo del Informe
+
+	Descripción de la Base de Datos de Datos Personal:
+		1. Esquema de la Base unión de colecciones por medio de Studio 3T mediante el análisis del esquema. 
+	Diseño de Base de Datos Personal:
+		1. Modelo de Datos: Normalización, cardinalidad(embeber o no hacerlo).
+		2. Consideraciones de Diseño: Relaciones entre colecciones, definición de campos comunes entre uno y otro documento.
+	Métodos de captura:
+		1. Creación y explicación del procedmiento de las bases de datos apartir de los archivos JSON proporcionados y por cada colección el esquema.
+	Consultas: 
+		1.Consultas y Explicación Realizadas: Detalles y salidas de las consultas en mongoDB ejecutadas las del taller y las otras adicionales de la base de   		datos personal.
+
+Análisis y Discusión
+
+	Interpretación de Resultados: Qué significan los resultados obtenidos y cómo se relacionan con los objetivos.
+
+Conclusiones
+
+Recomendaciones
+
+Referencias
