@@ -1,0 +1,6 @@
+{"_id":{"$oid":"64dce2d6f2f4e4f4d4bde6b8"},"nombre":"Juan Pérez","email":"juan.perez@example.com","telefono":"555-1234","tarjeta_lealtad":{"numero":"12345","puntos":100}}
+{"_id":{"$oid":"64dce2d6f2f4e4f4d4bde6b9"},"nombre":"Ana Gómez","email":"ana.gomez@example.com","telefono":"555-5678","tarjeta_lealtad":{"numero":"67890","puntos":180}}
+{"_id":{"$oid":"64dce2d6f2f4e4f4d4bde6ba"},"nombre":"Luis Martínez","email":"luis.martinez@example.com","telefono":"555-9876","tarjeta_lealtad":{"numero":"54321","puntos":200}}
+{"_id":{"$oid":"64dce2d6f2f4e4f4d4bde6bb"},"nombre":"María López","email":"maria.lopez@example.com","telefono":"555-6543","tarjeta_lealtad":{"numero":"98765","puntos":120}}
+{"_id":{"$oid":"64dce2d6f2f4e4f4d4bde6bc"},"nombre":"Carlos Ramírez","email":"carlos.ramirez@example.com","telefono":"555-3210","tarjeta_lealtad":{"numero":"11223","puntos":50}}
+{"_id":{"$oid":"6710780fe3ffc64bc3072f8a"},"nombre":"Sofía Rodríguez","email":"sofia.rodriguez@example.com","telefono":"555-7890","tarjeta_lealtad":{"numero":"33445","puntos":80}}

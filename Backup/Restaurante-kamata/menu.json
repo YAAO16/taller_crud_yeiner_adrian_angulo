@@ -1,0 +1,4 @@
+{"_id":{"$oid":"64dce4d6f2f4e4f4d4bde6d1"},"nombre":"Pizza Margherita","precio":8000.0}
+{"_id":{"$oid":"64dce4d6f2f4e4f4d4bde6d2"},"nombre":"Ensalada César","precio":5000.0}
+{"_id":{"$oid":"64dce4d6f2f4e4f4d4bde6d3"},"nombre":"Pasta Alfredo","precio":10000.0}
+{"_id":{"$oid":"64dce4d6f2f4e4f4d4bde6d4"},"nombre":"Sopa de Tomate","precio":4000.0}
